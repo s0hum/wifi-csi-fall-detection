@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+xgboost
+torch
+shap
+pywavelets
+jupyterlab
+plotly
+joblib
+tqdm
